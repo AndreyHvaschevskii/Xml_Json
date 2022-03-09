@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <name>Library One</name>
+    <bookList>
+        <book>
+            <articyl>1</articyl>
+            <name>Ono</name>
+            <year>2001</year>
+        </book>
+        <book>
+            <articyl>2</articyl>
+            <name>Sea</name>
+            <year>2010</year>
+        </book>
+        <book>
+            <articyl>3</articyl>
+            <name>Cat</name>
+            <year>2005</year>
+        </book>
+    </bookList>
+</library>
